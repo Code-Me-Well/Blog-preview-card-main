@@ -29,4 +29,4 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/photo_6019466845565861965_y.jpg)
-![](./assets/assets/images/Screenshot 2024-03-13 at 09-41-29 Frontend Mentor Blog preview card.png)
+![](./assets/images/Screenshot 2024-03-13 at 09-41-29 Frontend Mentor Blog preview card.png)
