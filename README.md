@@ -26,11 +26,11 @@ Users should be able to:
 
 #### Desktop Design
 
-![Sample of the desktop design I built](./assets/images/Screenshot 2024-03-13 at 09-41-29 Frontend Mentor Blog preview card.png)
+![Sample of the desktop design I built](./assets/images/Desktop.png)
 
 #### Active State
 
-![Sample of the desktop design at active state](./assets/images/Screenshot (33).png)
+![Sample of the desktop design at active state](./assets/images/Active.png)
 
 ### Mobile Design
 
